@@ -1,6 +1,6 @@
 # web
 
-My portfolio site.
+A new Flutter project.
 
 ## Getting Started
 
